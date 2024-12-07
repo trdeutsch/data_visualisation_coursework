@@ -8,6 +8,6 @@ Analyzing the project provides some insights:
 2. It shows that Manchester City achieved ten more wins than Chelsea, despite Chelsea spending almost twice as much on transfer fees.
 3. Another factor contributing to Manchester City's more tremendous success over Chelsea is their ability to invest wisely in the right players, directly enhancing team performance. While Manchester City spends more on attackers, Chelsea's cost per minute for that position is greater than Manchester City's.
 
-Additionally, the source code in SQL, used to integrate and transform data, and R, used to visualise the insights for this project, can be found in the SQL and R folders. The cleansed data used to analyse can be found in the Data folder, while the report of 2997 words can be found in the Report folder.
+Additionally, the source code in SQL, used to integrate and transform data, and R, used to visualise the insights for this project, can be found in the SQL and R folders. The cleansed data used to analyse can be found in the Data folder, while the report of 3011 words can be found in the Report folder.
 
 
