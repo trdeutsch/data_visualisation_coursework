@@ -2,7 +2,7 @@ The transfer fee of players is an exciting field for analysis from the perspecti
 
 This project aims to expand upon the INF6027 finding, which suggests that maintaining high transfer fees over the long term is essential for influencing future performance, by exploring two examples: Manchester City Football Club, which retains its transfer fees over the long term, and Chelsea Football Club, which tends to invest in high transfers in the short term. Moreover, it will look at another important aspect that improves the team's performance: how well the club can invest wisely in the right players who enhance team performance directly.
 
-Analyzing the project provides some insights:
+Analysing the project provides some insights:
 
 1. During the 2012 to 2022 period, Manchester City spent more than Chelsea in six out of eleven seasons, while Chelsea spent more in five seasons. This result indicates that Manchester City has held higher transfer fees in the long term than Chelsea, ultimately influencing their performance in 2023.
 2. It shows that Manchester City achieved ten more wins than Chelsea, despite Chelsea spending almost twice as much on transfer fees.
